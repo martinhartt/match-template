@@ -1,6 +1,6 @@
 {
   "name": "match-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Filter out objects using a predefined template object.",
   "main": "index.js",
   "scripts": {
