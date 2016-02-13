@@ -46,3 +46,9 @@ console.log(filteredObject);
 }
 */
 ```
+
+##Todo
+
+- Add unit testing
+- Make more clear documentation
+- Comment the code
