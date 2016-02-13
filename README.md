@@ -11,7 +11,7 @@ npm install match-template
 ##Usage
 
 ```javascript
-var match-template = require('match-template');
+var matchTemplate = require('match-template');
 
 var template = {
     id: true,
