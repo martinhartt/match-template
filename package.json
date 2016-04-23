@@ -1,6 +1,6 @@
 {
   "name": "match-template",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Filter out objects using a predefined template object.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "license": "MIT",
   "dependencies": {
     "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
