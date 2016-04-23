@@ -2,7 +2,7 @@
 
 var _ = require('underscore');
 
-exports = function matchTemplate(object, template) {
+module.exports = function matchTemplate(object, template) {
     var cleanTemplate = _.omit(template, function (i) {
         return !i;
     });
